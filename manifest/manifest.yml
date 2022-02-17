@@ -1,0 +1,11 @@
+version: 1
+
+entity_types:
+  LeveeSection:
+    has_designer: true
+    show_properties: false  # legacy, will be removed
+    
+entities:
+- entity_type: LeveeSection
+  properties:
+    name: A Sample LeveeSection
